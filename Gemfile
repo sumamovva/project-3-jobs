@@ -17,7 +17,7 @@ gem 'haml', '~> 5.0', '>= 5.0.4'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 gem 'simple_form'
 gem 'jquery-rails'
-
+gem 'devise', '~> 4.2'
 
 
 group :development, :test do
